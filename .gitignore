@@ -1,0 +1,8 @@
+node_modules/
+.env
+.vercel
+
+# TEDx registration data (do not commit real delegate data)
+db.json
+uploads/*
+!uploads/.gitkeep
